@@ -1,4 +1,4 @@
-## Project Biospread 
+## Biospread Project
 
 The Biospread Project aims at extracting data from biology-related spreadsheets available on the Web and publishing them as linked-data. The studies and scientific contributions of the project were reported in the papers listed below.
 
