@@ -7,9 +7,9 @@ The generated data is available at our (sparql endpoint)[http://sparql.lis.ic.un
 
 #### Team
 
-- (Ivelize)[github.com/Ivelize]
-- (Matheus)[github.com/matheusmota]
-- (Santanchè)[github.com/santanche]
+- [Ivelize](github.com/Ivelize)
+- [Matheus](github.com/matheusmota)
+- [Santanchè](github.com/santanche)
 
 #### Associated Publications
 - 
